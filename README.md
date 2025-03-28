@@ -1,2 +1,3 @@
-# Trabajo_Practico2_inciso2
-Materia Programacion 1
+# Trabajo_Practico2_inciso2 
+creacion de repositorio y archivo.txt
+
